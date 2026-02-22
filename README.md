@@ -8,6 +8,6 @@ A Python, Tkinter graphic application to generate fractals using recursive, L-Sy
 ## 📚 What I learned
 - Custom Data Structures: Implemented custom Stack (LIFO) and Queue (FIFO) classes from scratch to process L-System string rewriting rules and evaluate Dragon curve paper-folding sequences.
 - Algorithmic Recursion: Applied deep recursive algorithms to generate geometric fractals (Sierpinski, Koch, Menger), breaking down complex spatial transformations into manageable, self-similar sub-problems.
-- Vector Mathematics & OOP: Designed custom coord and crayon classes utilizing operator overloading (__add__, __mul__) and trigonometry to compute 2D vector translations and dynamic rotations.
+- Vector Mathematics & OOP: Designed custom coord and crayon classes utilizing operator and trigonometry to represent 2D vector translations and dynamic rotations.
 
 Developed by Dany LIM ([@DanyLLL](https://github.com/DanyLLL))
