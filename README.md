@@ -9,7 +9,7 @@ Available fractal models : Sierpinski's Triangle, Koch's Snowflake, Menger's Spo
 
 ## 📚 What I learned
 - Custom Data Structures: Implemented custom Stack (LIFO) and Queue (FIFO) classes from scratch to process L-System string rewriting rules and evaluate Dragon curve paper-folding sequences.
-- Algorithmic Recursion: Applied deep recursive algorithms to generate geometric fractals (Sierpinski, Koch, Menger), breaking down complex spatial transformations into manageable, self-similar sub-problems.
+- Algorithmic Recursion: Used recursive algorithms to generate geometric fractal.
 - Vector Mathematics & OOP: Designed custom coord and crayon classes utilizing operator and trigonometry to represent 2D vector translations and dynamic rotations.
 
 Developed by Dany LIM ([@DanyLLL](https://github.com/DanyLLL))
