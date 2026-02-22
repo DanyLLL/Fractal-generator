@@ -1,5 +1,6 @@
 ## ❄ Fractal Generator - Developed in Python
 A Python, Tkinter graphic application to generate fractals using recursive, L-System, and paper-folding algorithms, featuring a custom L-System rule builder.  
+Available fractal models : Sierpinski's Triangle, Koch's Snowflake, Menger's Sponge, Hilbert's curve, Gosper's curve, Dragon's curve.
 
 
     
