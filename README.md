@@ -2,6 +2,7 @@
 A Python, Tkinter graphic application to generate fractals using recursive, L-System, and paper-folding algorithms, featuring a custom L-System rule builder.  
 Available fractal models : Sierpinski's Triangle, Koch's Snowflake, Menger's Sponge, Hilbert's curve, Gosper's curve, Dragon's curve.
 
+<img width="1500" height="1500" alt="Collage3" src="https://github.com/user-attachments/assets/f1b16b65-8c38-44c4-993a-5632ad0ca713" />
 
     
 <img width="681" height="711" alt="image" src="https://github.com/user-attachments/assets/279281e4-a202-447c-ad49-ab272a2b72d5" />
